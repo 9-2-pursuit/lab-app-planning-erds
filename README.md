@@ -18,15 +18,11 @@ We'll create an ERD (Entity Relationship Diagram) for an outdoor equipment renta
 
 This activity is recommended to be done in the following way:
 
-- 30 minutes: pairs
+- 40 minutes: pairs
   - design your initial ERD
 - 20 minutes pair + pair for groups of four
   - compare and contrast with your new partners
   - choose one ERD to build and change
-- 10 minutes fours + fours for groups of eight
-  - compare and contrast with your new partners
-  - choose one ERD to build and change
-    etc.
 
 Then when the whole class is together, spend another 10 - 15 minutes talking through each of the different ERDs,
 
