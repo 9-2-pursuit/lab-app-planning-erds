@@ -1,5 +1,9 @@
 # Wavetree.io
 
+Link to Lucid Chart ERD: [https://lucid.app/documents/view/19da7f9a-8b50-4a1b-b01b-c3e78e0ff2af](https://lucid.app/documents/view/19da7f9a-8b50-4a1b-b01b-c3e78e0ff2af)
+
+The pdf of the chart is added to the repository as well.
+
 ## Where io means indoors/outdoors!
 
 ![](./assets/untitled-18.jpeg)
